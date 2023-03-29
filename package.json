@@ -1,0 +1,22 @@
+{
+  "name": "learning-threejs",
+  "version": "1.0.0",
+  "description": "A repository I made to learn about ThreeJs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathvda/Learning-ThreeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathvda/Learning-ThreeJs/issues"
+  },
+  "homepage": "https://github.com/nathvda/Learning-ThreeJs#readme",
+  "dependencies": {
+    "three": "^0.150.1"
+  }
+}
